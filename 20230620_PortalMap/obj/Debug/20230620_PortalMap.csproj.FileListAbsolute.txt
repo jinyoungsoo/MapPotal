@@ -1,0 +1,8 @@
+C:\c#\20230620_PortalMap\bin\Debug\20230620_PortalMap.exe.config
+C:\c#\20230620_PortalMap\bin\Debug\20230620_PortalMap.exe
+C:\c#\20230620_PortalMap\bin\Debug\20230620_PortalMap.pdb
+C:\c#\20230620_PortalMap\obj\Debug\20230620_PortalMap.csproj.AssemblyReference.cache
+C:\c#\20230620_PortalMap\obj\Debug\20230620_PortalMap.csproj.SuggestedBindingRedirects.cache
+C:\c#\20230620_PortalMap\obj\Debug\20230620_PortalMap.csproj.CoreCompileInputs.cache
+C:\c#\20230620_PortalMap\obj\Debug\20230620_PortalMap.exe
+C:\c#\20230620_PortalMap\obj\Debug\20230620_PortalMap.pdb

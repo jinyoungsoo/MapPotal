@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20230620_PortalMap", "20230620_PortalMap.csproj", "{96899CB3-3F4B-46D9-ACEC-67F05D9DCA83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96899CB3-3F4B-46D9-ACEC-67F05D9DCA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96899CB3-3F4B-46D9-ACEC-67F05D9DCA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96899CB3-3F4B-46D9-ACEC-67F05D9DCA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96899CB3-3F4B-46D9-ACEC-67F05D9DCA83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28FBD7A-563C-49A2-AF2F-9574EE012AC9}
+	EndGlobalSection
+EndGlobal
